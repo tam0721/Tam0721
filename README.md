@@ -1,4 +1,6 @@
-## 👋 Hi, I'm @Tam0721
+## About Me
+👋 Hi, I'm Tran Thi My Tam
+:school:
 
 
 <!--
