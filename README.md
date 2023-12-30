@@ -1,9 +1,9 @@
 ## About Me
-<p>👋 Hi, I'm Tran Thi My Tam</p>
-<p>⚡ <b>Website Backend Developer</b></p>
-<p>🏫 <b>FPT Polytechnic College</b></p>
-<p>☎️ <b>0383749441</b></p>
-<p>✉️ <b>tranthimytam0721@gmail.com</b></p>
+<p>👋 Hi everyone, I'm Tran Thi My Tam</p>
+<p>⚡ <b> Backend Web Developer</b></p>
+<p>📧 <b>tranthimytam0721@gmail.com</b></p>
+<p>💻 I'm a backend developer with a passion for studying and developing project with PHP (Laravel).</p>
+<p>🌟 My most current project: <a href="https://6flames.id.vn/">The Sneaker Square Website</a></p>
 
 <!--
 **Tam0721/Tam0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
